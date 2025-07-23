@@ -10,8 +10,8 @@
 - The game ends when the turtle collides with a car.
 
 # FILES OVERVIEW
-main.py -  Main game loop and event handling. 
-cars.py -  Handles car generation, movement, and level speed logic.
-crossing_turtle.py - Defines the player's turtle and its movement logic.
-round.py -  Displays current level and game over message. 
+## main.py -  Main game loop and event handling. 
+## cars.py -  Handles car generation, movement, and level speed logic.
+## crossing_turtle.py - Defines the player's turtle and its movement logic.
+## round.py -  Displays current level and game over message. 
 
